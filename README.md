@@ -29,7 +29,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Error tracking                 | Sentry                 | High       |
 | Identity management            | Okta                   | Medium     |
 | Incident response              | PagerDuty              | Medium     |
-| Instant messaging              | Slack                  | Medium     |
+| Instant messaging              | Slack                  | High       |
 | Logging                        | DataDog                | Medium     |
 | Monitoring                     | DataDog                | Medium     |
 | Payment processing             | Stripe                 | High       |
