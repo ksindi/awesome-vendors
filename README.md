@@ -60,4 +60,5 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | 50+          | Site development               | Prismic                    | Low        | TODO      | TODO         |
 | 100+         | Data loss prevention           | CipherCloud                | Low        | TODO      | TODO         |
 | 100+         | Workflow                       | Jira                       | Low        | TODO      | TODO         |
+| 100+         | Vendor risk management         | OneTrust                   | Low        | TODO      | TODO         |
 | 500+         | Equity grant management        | Stockplan (Morgan Stanley) | Low        | TODO      | TODO         |
