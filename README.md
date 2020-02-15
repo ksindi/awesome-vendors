@@ -31,6 +31,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Incident response              | PagerDuty              | Medium     |
 | Instant messaging              | Slack                  | High       |
 | Logging                        | DataDog                | Medium     |
+| Marketing automation           | Marketo                | Low        |
 | Monitoring                     | DataDog                | Medium     |
 | Payment processing             | Stripe                 | High       |
 | Penetration testing            | HackerOne              | Low        |
