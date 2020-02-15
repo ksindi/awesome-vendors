@@ -22,6 +22,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | 5+           | Incident response              | PagerDuty                  | Medium     | TODO      | TODO         |
 | 5+           | Instant messaging              | Slack                      | High       | TODO      | TODO         |
 | 5+           | Monitoring                     | Datadog                    | Medium     | TODO      | TODO         |
+| 5+           | Monitoring                     | Pingdom                    | Medium     | TODO      | TODO         |
 | 5+           | Password management            | Lastpass                   | Low        | TODO      | TODO         |
 | 5+           | Payment processing             | Stripe                     | High       | TODO      | TODO         |
 | 5+           | Site analytics                 | Google Analytics           | Medium     | TODO      | TODO         |
@@ -42,6 +43,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | 20+          | Subscription management        | Recurly                    | Low        | TODO      | TODO         |
 | 20+          | Support management             | Zendesk                    | Low        | TODO      | TODO         |
 | 20+          | Workflow                       | Trello                     | Low        | TODO      | TODO         |
+| 20+          | Status page                    | Statuspage                 | Low        | TODO      | TODO         |
 | 50+          | Bug bounty / pen testing       | HackerOne                  | High       | Y         | TODO         |
 | 50+          | Compliance management          | Aptible                    | Low        | TODO      | TODO         |
 | 50+          | Data analysis                  | Mode Analytics             | Low        | TODO      | TODO         |
