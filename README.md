@@ -11,6 +11,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | Company Size | Type of service                | Vendor                     | Confidence | ISO-27001 | List price   |
 |--------------|--------------------------------|----------------------------|------------|-----------|--------------|
 | 5+           | Build and release management   | Buildkite                  | High       | N         | TODO         |
+| 5+           | Build and release management   | CircleCI                   | Medium     | N         | TODO         |
 | 5+           | Calendar                       | Google Apps                | High       | Y         | TODO         |
 | 5+           | Cloud provider                 | AWS                        | Medium     | Y         | TODO         |
 | 5+           | Code repository                | GitHub                     | High       | TODO      | TODO         |
