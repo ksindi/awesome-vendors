@@ -26,6 +26,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Endpoint management            | AirWatch               | Low        |
 | Equity grant management        | Carta                  | High       |
 | Error tracking                 | Sentry                 | High       |
+| HR platform                    | Namely                 | Medium     |
 | Identity management            | Okta                   | Medium     |
 | Incident response              | PagerDuty              | Medium     |
 | Instant messaging              | Slack                  | High       |
