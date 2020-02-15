@@ -1,6 +1,6 @@
 # Awesome Vendors
 
-List of recommended SaaS vendors.
+List of recommended SaaS vendors. Confidence represents the likelihood I would stick with the vendor long term.
 
 
 | Type of service                | Vendor              | Confidence |
