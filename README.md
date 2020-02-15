@@ -10,8 +10,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 
 | Company Size | Type of service                | Vendor                     | Confidence | ISO-27001 | List price   |
 |--------------|--------------------------------|----------------------------|------------|-----------|--------------|
-| 5+           | Build and release management   | Buildkite                  | High       | N         | TODO         |
-| 5+           | Build and release management   | CircleCI                   | Medium     | N         | TODO         |
+| 5+           | Continuous integration         | CircleCI                   | Medium     | N         | TODO         |
 | 5+           | Calendar                       | Google Apps                | High       | Y         | TODO         |
 | 5+           | Cloud provider                 | AWS                        | Medium     | Y         | TODO         |
 | 5+           | Code repository                | GitHub                     | High       | TODO      | TODO         |
@@ -26,6 +25,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | 5+           | Password management            | Lastpass                   | Low        | TODO      | TODO         |
 | 5+           | Payment processing             | Stripe                     | High       | TODO      | TODO         |
 | 5+           | Site analytics                 | Google Analytics           | Medium     | TODO      | TODO         |
+| 20+          | Continuous integration         | Buildkite                  | High       | N         | TODO         |
 | 20+          | Code analysis                  | DeepSource                 | Low        | N         | TODO         |
 | 20+          | CRM                            | Salesforce                 | Low        | TODO      | TODO         |
 | 20+          | Device testing                 | BrowserStack               | Medium     | TODO      | TODO         |
