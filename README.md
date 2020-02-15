@@ -14,7 +14,7 @@ _If you strongly disagree with a choice, feel free to create an issue explaining
 | 5+           | Calendar                       | Google Apps                | High       | Y         | TODO         |
 | 5+           | Cloud provider                 | AWS                        | Medium     | Y         | TODO         |
 | 5+           | Code repository                | GitHub                     | High       | TODO      | TODO         |
-| 20+          | Content delivery network       | Fastly                     | Medium     | TODO      | TODO         |
+| 5+           | Content delivery network       | Fastly                     | Medium     | TODO      | TODO         |
 | 5+           | Document signing               | DocuSign                   | Low        | TODO      | TODO         |
 | 5+           | Email                          | Google Apps                | High       | TODO      | TODO         |
 | 5+           | Error tracking                 | Sentry                     | High       | TODO      | TODO         |
