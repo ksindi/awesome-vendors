@@ -33,6 +33,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Logging                        | DataDog                | Medium     |
 | Marketing automation           | Marketo                | Low        |
 | Monitoring                     | DataDog                | Medium     |
+| Monitoring                     | Sysdig                 | Low        |
 | Payment processing             | Stripe                 | High       |
 | Penetration testing            | HackerOne              | Low        |
 | Performance management         | BetterWorks            | Low        |
