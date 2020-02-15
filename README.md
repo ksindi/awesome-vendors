@@ -10,6 +10,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Code analysis                  | DeepSource             | Low        |
 | Code repository                | GitHub                 | High       |
 | Compliance management          | Aptible                | Low        |
+| Container scanning             | TBD                    |            |
 | Content delivery network (CDN) | Fastly                 | High       |
 | Continuous integration         | Buildkite              | High       |
 | CRM                            | Salesforce             | Low        |
