@@ -36,6 +36,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Payment processing             | Stripe                 | High       |
 | Penetration testing            | HackerOne              | Low        |
 | Performance management         | BetterWorks            | Low        |
+| Recruiting                     | Greenhouse             | High       |
 | Site analytics                 | Google Analytics       | Medium     |
 | Site development               | Prismic.io             | Low        |
 | SpringCM                       | Contract management    | Low        |
