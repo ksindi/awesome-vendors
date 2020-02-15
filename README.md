@@ -30,6 +30,7 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Identity management            | Okta                   | Medium     |           |
 | Incident response              | PagerDuty              | Medium     |           |
 | Instant messaging              | Slack                  | High       |           |
+| Knowledge sharing              | Stackoverflow Teams    | Low        |           |
 | Logging                        | DataDog                | Medium     |           |
 | Marketing automation           | Marketo                | Low        |           |
 | Monitoring                     | DataDog                | Medium     |           |
