@@ -23,7 +23,6 @@ List of recommended SaaS vendors. Confidence represents the likelihood I would s
 | Document signing               | DocuSign               | Low        |
 | Documentation hosting          | ReadMe.io              | Medium     |
 | Email                          | Google Apps            | High       |
-| Employee surveys               | 6Q                     | Low        |
 | Endpoint management            | AirWatch               | Low        |
 | Equity grant management        | Carta                  | High       |
 | Error tracking                 | Sentry                 | High       |
