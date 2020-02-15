@@ -1,6 +1,12 @@
 # Awesome Vendors
 
-List of recommended SaaS vendors. Confidence represents the likelihood I would stick with the vendor long term. If you strongly disagree with a choice, feel free to create an issue explaining why you prefer the other vendor.
+List of recommended SaaS vendors.
+
+Confidence represents the likelihood I would stick with the vendor long term.
+
+If you strongly disagree with a choice, feel free to create an issue explaining why you prefer the other vendor.
+
+## Vendors
 
 | Type of service                | Vendor                 | Confidence | Security  |
 |--------------------------------|------------------------|------------| --------- |
